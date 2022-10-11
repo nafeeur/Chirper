@@ -1,5 +1,5 @@
 
-# Twitter - Part II
+# Chirper - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
@@ -22,7 +22,7 @@ Here's a walkthrough of implemented user stories:
 
 ------
 
-# Twitter - Part I
+# Chirper - Part I
 
 This is a basic twitter app to read your tweets.
 
